@@ -1,0 +1,16 @@
+C:\Users\djrdv\source\repos\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.csprojAssemblyReference.cache
+C:\Users\djrdv\source\repos\CardIdentifier\CardIdentifier\obj\Debug\MainWindow.g.cs
+C:\Users\djrdv\source\repos\CardIdentifier\CardIdentifier\obj\Debug\App.g.cs
+C:\Users\djrdv\source\repos\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier_MarkupCompile.cache
+C:\Users\djrdv\source\repos\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier_MarkupCompile.lref
+C:\Users\djrdv\source\repos\CardIdentifier\CardIdentifier\bin\Debug\CardIdentifier.exe.config
+C:\Users\djrdv\source\repos\CardIdentifier\CardIdentifier\bin\Debug\CardIdentifier.exe
+C:\Users\djrdv\source\repos\CardIdentifier\CardIdentifier\bin\Debug\CardIdentifier.pdb
+C:\Users\djrdv\source\repos\CardIdentifier\CardIdentifier\obj\Debug\MainWindow.baml
+C:\Users\djrdv\source\repos\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.g.resources
+C:\Users\djrdv\source\repos\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.Properties.Resources.resources
+C:\Users\djrdv\source\repos\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.csproj.GenerateResource.cache
+C:\Users\djrdv\source\repos\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\djrdv\source\repos\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.exe
+C:\Users\djrdv\source\repos\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.pdb
+C:\Users\djrdv\source\repos\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier_Content.g.cs
